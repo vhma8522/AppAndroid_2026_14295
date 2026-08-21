@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appclase</string>
+    <string name="welcome_message">Bienvenidos a mi aplicación</string>
+    <string name="menu_main_message">Usa la barra inferior para navegar entre las secciones.</string>
+    <string name="user_register">Registro de Usuario</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="user_email">Correo Electrónico</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>
