@@ -16,4 +16,8 @@
         android:id="@+id/userListFragment2"
         android:icon="@drawable/ic_list"
         android:title="Usuarios Antiguos" />
+    <item
+        android:id="@+id/tasksFragment"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Tareas" />
 </menu>

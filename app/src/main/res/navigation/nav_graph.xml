@@ -23,4 +23,9 @@
         android:id="@+id/userListFragment2"
         android:name="com.example.appclase.UserListFragment"
         android:label="Usuarios Antiguos" />
+
+    <fragment
+        android:id="@+id/tasksFragment"
+        android:name="com.example.appclase.TasksFragment"
+        android:label="Tareas" />
 </navigation>
